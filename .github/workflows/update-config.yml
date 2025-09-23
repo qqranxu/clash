@@ -1,0 +1,36 @@
+name: Update Clash Config with Listeners
+
+on:
+  schedule:
+    # 每天凌晨2点自动更新
+    - cron: '0 2 * * *'
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  update-config:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests pyyaml
+        
+    - name: Generate config with listeners
+      run: |
+        python fixed_subscription_parser.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add clash_auto_config.yaml
+        git commit -m "Auto update clash config $(date)" || exit 0
+        git push
