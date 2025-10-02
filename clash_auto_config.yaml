@@ -2993,8 +2993,8 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F2\U0001F1E6 摩洛哥丨3x MA\r"
   type: ss
-  server: libid0og.epicgames.ink
-  port: 13193
+  server: ix3udf69.epicgames.ink
+  port: 20164
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
   udp: true
@@ -3312,8 +3312,8 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F8\U0001F1F3 塞内加尔丨3x SN\r"
   type: ss
-  server: libid0og.epicgames.ink
-  port: 13194
+  server: ix3udf69.epicgames.ink
+  port: 20107
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
   udp: true
