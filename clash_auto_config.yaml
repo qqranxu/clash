@@ -1110,6 +1110,17 @@ proxies:
   plugin-opts:
     mode: http
     host: 2195a4c365c3.microsoft.com
+- name: "\U0001F1E6\U0001F1FA 澳大利亚-珀斯丨2x AU\r"
+  type: ss
+  server: ix3udf69.epicgames.ink
+  port: 20178
+  cipher: aes-128-gcm
+  password: haMLMXirByn6rGVh
+  udp: true
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E6\U0001F1FA 澳大利亚-墨尔本丨2x AU\r"
   type: ss
   server: ix3udf69.epicgames.ink
@@ -1224,6 +1235,17 @@ proxies:
   type: ss
   server: ix3udf69.epicgames.ink
   port: 20121
+  cipher: aes-128-gcm
+  password: haMLMXirByn6rGVh
+  udp: true
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 2195a4c365c3.microsoft.com
+- name: "\U0001F1FB\U0001F1FA 瓦努阿图丨3x VU\r"
+  type: ss
+  server: ix3udf69.epicgames.ink
+  port: 20149
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
   udp: true
@@ -2276,17 +2298,6 @@ proxies:
   plugin-opts:
     mode: http
     host: 2195a4c365c3.microsoft.com
-- name: "\U0001F1F2\U0001F1FD 墨西哥家宽丨5x MX\r"
-  type: ss
-  server: tq5cpgw3.epicgames.ink
-  port: 13280
-  cipher: aes-128-gcm
-  password: haMLMXirByn6rGVh
-  udp: true
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F2\U0001F1FD 墨西哥星链丨20x MX\r"
   type: ss
   server: tq5cpgw3.epicgames.ink
@@ -2467,17 +2478,6 @@ proxies:
   type: ss
   server: tq5cpgw3.epicgames.ink
   port: 13245
-  cipher: aes-128-gcm
-  password: haMLMXirByn6rGVh
-  udp: true
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 2195a4c365c3.microsoft.com
-- name: "\U0001F1EF\U0001F1F2 牙买加丨3x JM\r"
-  type: ss
-  server: ix3udf69.epicgames.ink
-  port: 20093
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
   udp: true
@@ -2793,32 +2793,10 @@ proxies:
   plugin-opts:
     mode: http
     host: 2195a4c365c3.microsoft.com
-- name: "\U0001F1E9\U0001F1F2 多米尼克丨3x DM\r"
-  type: ss
-  server: ix3udf69.epicgames.ink
-  port: 20097
-  cipher: aes-128-gcm
-  password: haMLMXirByn6rGVh
-  udp: true
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E9\U0001F1F4 多米尼加丨5x DO\r"
   type: ss
   server: tq5cpgw3.epicgames.ink
   port: 13290
-  cipher: aes-128-gcm
-  password: haMLMXirByn6rGVh
-  udp: true
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 2195a4c365c3.microsoft.com
-- name: "\U0001F1E7\U0001F1E7 巴巴多斯丨3x BB\r"
-  type: ss
-  server: ix3udf69.epicgames.ink
-  port: 20067
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
   udp: true
@@ -3900,503 +3878,503 @@ listeners:
 - name: mixed97
   type: mixed
   port: 42097
-  proxy: "\U0001F1E6\U0001F1FA 澳大利亚-墨尔本丨2x AU\r"
+  proxy: "\U0001F1E6\U0001F1FA 澳大利亚-珀斯丨2x AU\r"
 - name: mixed98
   type: mixed
   port: 42098
-  proxy: "\U0001F1F3\U0001F1E8 新喀里多尼亚丨3x NC\r"
+  proxy: "\U0001F1E6\U0001F1FA 澳大利亚-墨尔本丨2x AU\r"
 - name: mixed99
   type: mixed
   port: 42099
-  proxy: "\U0001F1F3\U0001F1FF 新西兰丨2x NZ\r"
+  proxy: "\U0001F1F3\U0001F1E8 新喀里多尼亚丨3x NC\r"
 - name: mixed100
   type: mixed
   port: 42100
-  proxy: "\U0001F1F3\U0001F1FF 新西兰家宽丨3x NZ\r"
+  proxy: "\U0001F1F3\U0001F1FF 新西兰丨2x NZ\r"
 - name: mixed101
   type: mixed
   port: 42101
-  proxy: "\U0001F1F3\U0001F1F7 瑙鲁丨3x NR\r"
+  proxy: "\U0001F1F3\U0001F1FF 新西兰家宽丨3x NZ\r"
 - name: mixed102
   type: mixed
   port: 42102
-  proxy: "\U0001F1F3\U0001F1FA 纽埃丨3x NU\r"
+  proxy: "\U0001F1F3\U0001F1F7 瑙鲁丨3x NR\r"
 - name: mixed103
   type: mixed
   port: 42103
-  proxy: "\U0001F1F5\U0001F1FC 帕劳丨3x PW\r"
+  proxy: "\U0001F1F3\U0001F1FA 纽埃丨3x NU\r"
 - name: mixed104
   type: mixed
   port: 42104
-  proxy: "\U0001F1FC\U0001F1F8 萨摩亚丨3x WS\r"
+  proxy: "\U0001F1F5\U0001F1FC 帕劳丨3x PW\r"
 - name: mixed105
   type: mixed
   port: 42105
-  proxy: "\U0001F1E6\U0001F1F8 美属萨摩亚丨3x AS\r"
+  proxy: "\U0001F1FC\U0001F1F8 萨摩亚丨3x WS\r"
 - name: mixed106
   type: mixed
   port: 42106
-  proxy: "\U0001F1F9\U0001F1F0 托克劳丨3x TK\r"
+  proxy: "\U0001F1E6\U0001F1F8 美属萨摩亚丨3x AS\r"
 - name: mixed107
   type: mixed
   port: 42107
-  proxy: "\U0001F1F0\U0001F1EE 基里巴斯丨3x KI\r"
+  proxy: "\U0001F1F9\U0001F1F0 托克劳丨3x TK\r"
 - name: mixed108
   type: mixed
   port: 42108
-  proxy: "\U0001F1F3\U0001F1EB 诺福克岛丨3x NF\r"
+  proxy: "\U0001F1F0\U0001F1EE 基里巴斯丨3x KI\r"
 - name: mixed109
   type: mixed
   port: 42109
-  proxy: "\U0001F1F8\U0001F1E7 所罗门群岛丨3x SB\r"
+  proxy: "\U0001F1FB\U0001F1FA 瓦努阿图丨3x VU\r"
 - name: mixed110
   type: mixed
   port: 42110
-  proxy: "\U0001F1F2\U0001F1ED 马绍尔群岛丨3x MH\r"
+  proxy: "\U0001F1F3\U0001F1EB 诺福克岛丨3x NF\r"
 - name: mixed111
   type: mixed
   port: 42111
-  proxy: "\U0001F1EB\U0001F1F2 密克罗尼西亚丨3x FM\r"
+  proxy: "\U0001F1F8\U0001F1E7 所罗门群岛丨3x SB\r"
 - name: mixed112
   type: mixed
   port: 42112
-  proxy: "\U0001F1F5\U0001F1EB 法属波利尼西亚丨3x PF\r"
+  proxy: "\U0001F1F2\U0001F1ED 马绍尔群岛丨3x MH\r"
 - name: mixed113
   type: mixed
   port: 42113
-  proxy: "\U0001F1F5\U0001F1EC 巴布亚新几内亚丨3x PG\r"
+  proxy: "\U0001F1EB\U0001F1F2 密克罗尼西亚丨3x FM\r"
 - name: mixed114
   type: mixed
   port: 42114
-  proxy: "\U0001F1FC\U0001F1EB 瓦利斯和富图纳丨3x WF\r"
+  proxy: "\U0001F1F5\U0001F1EB 法属波利尼西亚丨3x PF\r"
 - name: mixed115
   type: mixed
   port: 42115
-  proxy: "\U0001F1EB\U0001F1F7 法国 01丨1x FR\r"
+  proxy: "\U0001F1F5\U0001F1EC 巴布亚新几内亚丨3x PG\r"
 - name: mixed116
   type: mixed
   port: 42116
-  proxy: "\U0001F1EB\U0001F1F7 法国 02丨1x FR\r"
+  proxy: "\U0001F1FC\U0001F1EB 瓦利斯和富图纳丨3x WF\r"
 - name: mixed117
   type: mixed
   port: 42117
-  proxy: "\U0001F1EB\U0001F1F7 法国住宅丨10x FR\r"
+  proxy: "\U0001F1EB\U0001F1F7 法国 01丨1x FR\r"
 - name: mixed118
   type: mixed
   port: 42118
-  proxy: "\U0001F1EC\U0001F1E7 英国家宽 01丨5x GB\r"
+  proxy: "\U0001F1EB\U0001F1F7 法国 02丨1x FR\r"
 - name: mixed119
   type: mixed
   port: 42119
-  proxy: "\U0001F1EC\U0001F1E7 英国家宽 02丨5x GB\r"
+  proxy: "\U0001F1EB\U0001F1F7 法国住宅丨10x FR\r"
 - name: mixed120
   type: mixed
   port: 42120
-  proxy: "\U0001F1EC\U0001F1E7 英国家宽 03丨5x GB\r"
+  proxy: "\U0001F1EC\U0001F1E7 英国家宽 01丨5x GB\r"
 - name: mixed121
   type: mixed
   port: 42121
-  proxy: "\U0001F1EE\U0001F1F2 马恩岛丨3x IM\r"
+  proxy: "\U0001F1EC\U0001F1E7 英国家宽 02丨5x GB\r"
 - name: mixed122
   type: mixed
   port: 42122
-  proxy: "\U0001F1EC\U0001F1EC 根西岛丨3x GG\r"
+  proxy: "\U0001F1EC\U0001F1E7 英国家宽 03丨5x GB\r"
 - name: mixed123
   type: mixed
   port: 42123
-  proxy: "\U0001F1EF\U0001F1EA 泽西岛丨3x JE\r"
+  proxy: "\U0001F1EE\U0001F1F2 马恩岛丨3x IM\r"
 - name: mixed124
   type: mixed
   port: 42124
-  proxy: "\U0001F1E9\U0001F1EA 德国丨1x DE\r"
+  proxy: "\U0001F1EC\U0001F1EC 根西岛丨3x GG\r"
 - name: mixed125
   type: mixed
   port: 42125
-  proxy: "\U0001F1E9\U0001F1EA 德国住宅丨5x DE\r"
+  proxy: "\U0001F1EF\U0001F1EA 泽西岛丨3x JE\r"
 - name: mixed126
   type: mixed
   port: 42126
-  proxy: "\U0001F1E9\U0001F1F0 丹麦丨1x DK\r"
+  proxy: "\U0001F1E9\U0001F1EA 德国丨1x DE\r"
 - name: mixed127
   type: mixed
   port: 42127
-  proxy: "\U0001F1F3\U0001F1F4 挪威丨1x NO\r"
+  proxy: "\U0001F1E9\U0001F1EA 德国住宅丨5x DE\r"
 - name: mixed128
   type: mixed
   port: 42128
-  proxy: "\U0001F1F8\U0001F1EA 瑞典丨1x SE\r"
+  proxy: "\U0001F1E9\U0001F1F0 丹麦丨1x DK\r"
 - name: mixed129
   type: mixed
   port: 42129
-  proxy: "\U0001F1EB\U0001F1EE 芬兰丨1x FI\r"
+  proxy: "\U0001F1F3\U0001F1F4 挪威丨1x NO\r"
 - name: mixed130
   type: mixed
   port: 42130
-  proxy: "\U0001F1EE\U0001F1F8 冰岛丨2x IS\r"
+  proxy: "\U0001F1F8\U0001F1EA 瑞典丨1x SE\r"
 - name: mixed131
   type: mixed
   port: 42131
-  proxy: "\U0001F1E8\U0001F1ED 瑞士丨2x CH\r"
+  proxy: "\U0001F1EB\U0001F1EE 芬兰丨1x FI\r"
 - name: mixed132
   type: mixed
   port: 42132
-  proxy: "\U0001F1E8\U0001F1FF 捷克丨1x CZ\r"
+  proxy: "\U0001F1EE\U0001F1F8 冰岛丨2x IS\r"
 - name: mixed133
   type: mixed
   port: 42133
-  proxy: "\U0001F1EC\U0001F1F7 希腊丨2x GR\r"
+  proxy: "\U0001F1E8\U0001F1ED 瑞士丨2x CH\r"
 - name: mixed134
   type: mixed
   port: 42134
-  proxy: "\U0001F1F3\U0001F1F1 荷兰丨1x NL\r"
+  proxy: "\U0001F1E8\U0001F1FF 捷克丨1x CZ\r"
 - name: mixed135
   type: mixed
   port: 42135
-  proxy: "\U0001F1F5\U0001F1F1 波兰丨1x PL\r"
+  proxy: "\U0001F1EC\U0001F1F7 希腊丨2x GR\r"
 - name: mixed136
   type: mixed
   port: 42136
-  proxy: "\U0001F1F2\U0001F1EA 黑山丨3x ME\r"
+  proxy: "\U0001F1F3\U0001F1F1 荷兰丨1x NL\r"
 - name: mixed137
   type: mixed
   port: 42137
-  proxy: "\U0001F1F7\U0001F1FA 俄罗斯丨1x RU\r"
+  proxy: "\U0001F1F5\U0001F1F1 波兰丨1x PL\r"
 - name: mixed138
   type: mixed
   port: 42138
-  proxy: "\U0001F1FA\U0001F1E6 乌克兰丨2x UA\r"
+  proxy: "\U0001F1F2\U0001F1EA 黑山丨3x ME\r"
 - name: mixed139
   type: mixed
   port: 42139
-  proxy: "\U0001F1ED\U0001F1FA 匈牙利丨1x HU\r"
+  proxy: "\U0001F1F7\U0001F1FA 俄罗斯丨1x RU\r"
 - name: mixed140
   type: mixed
   port: 42140
-  proxy: "\U0001F1F1\U0001F1FA 卢森堡丨2x LU\r"
+  proxy: "\U0001F1FA\U0001F1E6 乌克兰丨2x UA\r"
 - name: mixed141
   type: mixed
   port: 42141
-  proxy: "\U0001F1E6\U0001F1F9 奥地利丨2x AT\r"
+  proxy: "\U0001F1ED\U0001F1FA 匈牙利丨1x HU\r"
 - name: mixed142
   type: mixed
   port: 42142
-  proxy: "\U0001F1EE\U0001F1F9 意大利丨1x IT\r"
+  proxy: "\U0001F1F1\U0001F1FA 卢森堡丨2x LU\r"
 - name: mixed143
   type: mixed
   port: 42143
-  proxy: "\U0001F1EE\U0001F1F9 意大利家宽丨5x IT\r"
+  proxy: "\U0001F1E6\U0001F1F9 奥地利丨2x AT\r"
 - name: mixed144
   type: mixed
   port: 42144
-  proxy: "\U0001F1FB\U0001F1E6 梵蒂冈丨3x VA\r"
+  proxy: "\U0001F1EE\U0001F1F9 意大利丨1x IT\r"
 - name: mixed145
   type: mixed
   port: 42145
-  proxy: "\U0001F1E7\U0001F1EA 比利时丨1x BE\r"
+  proxy: "\U0001F1EE\U0001F1F9 意大利家宽丨5x IT\r"
 - name: mixed146
   type: mixed
   port: 42146
-  proxy: "\U0001F1EE\U0001F1EA 爱尔兰丨2x IE\r"
+  proxy: "\U0001F1FB\U0001F1E6 梵蒂冈丨3x VA\r"
 - name: mixed147
   type: mixed
   port: 42147
-  proxy: "\U0001F1F1\U0001F1F9 立陶宛丨1x LT\r"
+  proxy: "\U0001F1E7\U0001F1EA 比利时丨1x BE\r"
 - name: mixed148
   type: mixed
   port: 42148
-  proxy: "\U0001F1EA\U0001F1F8 西班牙丨1x ES\r"
+  proxy: "\U0001F1EE\U0001F1EA 爱尔兰丨2x IE\r"
 - name: mixed149
   type: mixed
   port: 42149
-  proxy: "\U0001F1F5\U0001F1F9 葡萄牙丨1x PT\r"
+  proxy: "\U0001F1F1\U0001F1F9 立陶宛丨1x LT\r"
 - name: mixed150
   type: mixed
   port: 42150
-  proxy: "\U0001F1E6\U0001F1E9 安道尔丨3x AD\r"
+  proxy: "\U0001F1EA\U0001F1F8 西班牙丨1x ES\r"
 - name: mixed151
   type: mixed
   port: 42151
-  proxy: "\U0001F1F2\U0001F1F9 马耳他丨3x MT\r"
+  proxy: "\U0001F1F5\U0001F1F9 葡萄牙丨1x PT\r"
 - name: mixed152
   type: mixed
   port: 42152
-  proxy: "\U0001F1F2\U0001F1E8 摩纳哥丨3x MC\r"
+  proxy: "\U0001F1E6\U0001F1E9 安道尔丨3x AD\r"
 - name: mixed153
   type: mixed
   port: 42153
-  proxy: "\U0001F1E7\U0001F1EC 保加利亚丨1x BG\r"
+  proxy: "\U0001F1F2\U0001F1F9 马耳他丨3x MT\r"
 - name: mixed154
   type: mixed
   port: 42154
-  proxy: "\U0001F1ED\U0001F1F7 克罗地亚丨2x HR\r"
+  proxy: "\U0001F1F2\U0001F1E8 摩纳哥丨3x MC\r"
 - name: mixed155
   type: mixed
   port: 42155
-  proxy: "\U0001F1F2\U0001F1F0 北马其顿丨2x MK\r"
+  proxy: "\U0001F1E7\U0001F1EC 保加利亚丨1x BG\r"
 - name: mixed156
   type: mixed
   port: 42156
-  proxy: "\U0001F1F7\U0001F1F8 塞尔维亚住宅丨3x RS\r"
+  proxy: "\U0001F1ED\U0001F1F7 克罗地亚丨2x HR\r"
 - name: mixed157
   type: mixed
   port: 42157
-  proxy: "\U0001F1E8\U0001F1FE 塞浦路斯丨1x CY\r"
+  proxy: "\U0001F1F2\U0001F1F0 北马其顿丨2x MK\r"
 - name: mixed158
   type: mixed
   port: 42158
-  proxy: "\U0001F1F1\U0001F1FB 拉脱维亚丨1x LV\r"
+  proxy: "\U0001F1F7\U0001F1F8 塞尔维亚住宅丨3x RS\r"
 - name: mixed159
   type: mixed
   port: 42159
-  proxy: "\U0001F1F2\U0001F1E9 摩尔多瓦丨2x MD\r"
+  proxy: "\U0001F1E8\U0001F1FE 塞浦路斯丨1x CY\r"
 - name: mixed160
   type: mixed
   port: 42160
-  proxy: "\U0001F1F8\U0001F1F0 斯洛伐克丨1x SK\r"
+  proxy: "\U0001F1F1\U0001F1FB 拉脱维亚丨1x LV\r"
 - name: mixed161
   type: mixed
   port: 42161
-  proxy: "\U0001F1EA\U0001F1EA 爱沙尼亚丨1x EE\r"
+  proxy: "\U0001F1F2\U0001F1E9 摩尔多瓦丨2x MD\r"
 - name: mixed162
   type: mixed
   port: 42162
-  proxy: "\U0001F1E7\U0001F1FE 白俄罗斯丨3x BY\r"
+  proxy: "\U0001F1F8\U0001F1F0 斯洛伐克丨1x SK\r"
 - name: mixed163
   type: mixed
   port: 42163
-  proxy: "\U0001F1F7\U0001F1F4 罗马尼亚丨1x RO\r"
+  proxy: "\U0001F1EA\U0001F1EA 爱沙尼亚丨1x EE\r"
 - name: mixed164
   type: mixed
   port: 42164
-  proxy: "\U0001F1EC\U0001F1EE 直布罗陀丨3x GI\r"
+  proxy: "\U0001F1E7\U0001F1FE 白俄罗斯丨3x BY\r"
 - name: mixed165
   type: mixed
   port: 42165
-  proxy: "\U0001F1F8\U0001F1F2 圣马力诺丨3x SM\r"
+  proxy: "\U0001F1F7\U0001F1F4 罗马尼亚丨1x RO\r"
 - name: mixed166
   type: mixed
   port: 42166
-  proxy: "\U0001F1EB\U0001F1F4 法罗群岛丨3x FO\r"
+  proxy: "\U0001F1EC\U0001F1EE 直布罗陀丨3x GI\r"
 - name: mixed167
   type: mixed
   port: 42167
-  proxy: "\U0001F1E6\U0001F1FD 奥兰群岛丨3x AX\r"
+  proxy: "\U0001F1F8\U0001F1F2 圣马力诺丨3x SM\r"
 - name: mixed168
   type: mixed
   port: 42168
-  proxy: "\U0001F1F8\U0001F1EE 斯洛文尼亚丨2x SI\r"
+  proxy: "\U0001F1EB\U0001F1F4 法罗群岛丨3x FO\r"
 - name: mixed169
   type: mixed
   port: 42169
-  proxy: "\U0001F1E6\U0001F1F1 阿尔巴尼亚丨1x AL\r"
+  proxy: "\U0001F1E6\U0001F1FD 奥兰群岛丨3x AX\r"
 - name: mixed170
   type: mixed
   port: 42170
-  proxy: "\U0001F1E7\U0001F1E6 波黑共和国丨2x BA\r"
+  proxy: "\U0001F1F8\U0001F1EE 斯洛文尼亚丨2x SI\r"
 - name: mixed171
   type: mixed
   port: 42171
-  proxy: "\U0001F1F1\U0001F1EE 列支敦士登丨3x LI\r"
+  proxy: "\U0001F1E6\U0001F1F1 阿尔巴尼亚丨1x AL\r"
 - name: mixed172
   type: mixed
   port: 42172
-  proxy: "\U0001F1F7\U0001F1EA 法属留尼汪丨2x RE\r"
+  proxy: "\U0001F1E7\U0001F1E6 波黑共和国丨2x BA\r"
 - name: mixed173
   type: mixed
   port: 42173
-  proxy: "\U0001F1FA\U0001F1F8 美国-费城丨1x US\r"
+  proxy: "\U0001F1F1\U0001F1EE 列支敦士登丨3x LI\r"
 - name: mixed174
   type: mixed
   port: 42174
-  proxy: "\U0001F1FA\U0001F1F8 美国-纽约 01丨1x US\r"
+  proxy: "\U0001F1F7\U0001F1EA 法属留尼汪丨2x RE\r"
 - name: mixed175
   type: mixed
   port: 42175
-  proxy: "\U0001F1FA\U0001F1F8 美国-纽约 02丨3x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-费城丨1x US\r"
 - name: mixed176
   type: mixed
   port: 42176
-  proxy: "\U0001F1FA\U0001F1F8 美国-洛杉矶 01丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-纽约 01丨1x US\r"
 - name: mixed177
   type: mixed
   port: 42177
-  proxy: "\U0001F1FA\U0001F1F8 美国-洛杉矶 02丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-纽约 02丨3x US\r"
 - name: mixed178
   type: mixed
   port: 42178
-  proxy: "\U0001F1FA\U0001F1F8 美国-洛杉矶 03丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-洛杉矶 01丨1x US\r"
 - name: mixed179
   type: mixed
   port: 42179
-  proxy: "\U0001F1FA\U0001F1F8 美国-洛杉矶 04丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-洛杉矶 02丨1x US\r"
 - name: mixed180
   type: mixed
   port: 42180
-  proxy: "\U0001F1FA\U0001F1F8 美国-盐湖城丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-洛杉矶 03丨1x US\r"
 - name: mixed181
   type: mixed
   port: 42181
-  proxy: "\U0001F1FA\U0001F1F8 美国-圣何塞丨5x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-洛杉矶 04丨1x US\r"
 - name: mixed182
   type: mixed
   port: 42182
-  proxy: "\U0001F1FA\U0001F1F8 美国-迈阿密丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-盐湖城丨1x US\r"
 - name: mixed183
   type: mixed
   port: 42183
-  proxy: "\U0001F1FA\U0001F1F8 美国-西雅图丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-圣何塞丨5x US\r"
 - name: mixed184
   type: mixed
   port: 42184
-  proxy: "\U0001F1FA\U0001F1F8 美国-檀香山丨3x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-迈阿密丨1x US\r"
 - name: mixed185
   type: mixed
   port: 42185
-  proxy: "\U0001F1FA\U0001F1F8 美国-旧金山丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-西雅图丨1x US\r"
 - name: mixed186
   type: mixed
   port: 42186
-  proxy: "\U0001F1FA\U0001F1F8 美国-凤凰城丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-檀香山丨3x US\r"
 - name: mixed187
   type: mixed
   port: 42187
-  proxy: "\U0001F1FA\U0001F1F8 美国-达拉斯丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-旧金山丨1x US\r"
 - name: mixed188
   type: mixed
   port: 42188
-  proxy: "\U0001F1FA\U0001F1F8 美国-芝加哥丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-凤凰城丨1x US\r"
 - name: mixed189
   type: mixed
   port: 42189
-  proxy: "\U0001F1FA\U0001F1F8 美国-夏洛特丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-达拉斯丨1x US\r"
 - name: mixed190
   type: mixed
   port: 42190
-  proxy: "\U0001F1FA\U0001F1F8 美国-斯波坎丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-芝加哥丨1x US\r"
 - name: mixed191
   type: mixed
   port: 42191
-  proxy: "\U0001F1FA\U0001F1F8 美国-阿什本丨3x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-夏洛特丨1x US\r"
 - name: mixed192
   type: mixed
   port: 42192
-  proxy: "\U0001F1FA\U0001F1F8 美国-巴尔的摩丨3x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-斯波坎丨1x US\r"
 - name: mixed193
   type: mixed
   port: 42193
-  proxy: "\U0001F1FA\U0001F1F8 美国-拉斯维加斯丨1x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-阿什本丨3x US\r"
 - name: mixed194
   type: mixed
   port: 42194
-  proxy: "\U0001F1FA\U0001F1F8 美国-家宽 01丨5x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-巴尔的摩丨3x US\r"
 - name: mixed195
   type: mixed
   port: 42195
-  proxy: "\U0001F1FA\U0001F1F8 美国-家宽 02丨5x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-拉斯维加斯丨1x US\r"
 - name: mixed196
   type: mixed
   port: 42196
-  proxy: "\U0001F1FA\U0001F1F8 美国-家宽 03丨5x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-家宽 01丨5x US\r"
 - name: mixed197
   type: mixed
   port: 42197
-  proxy: "\U0001F1FA\U0001F1F8 美国-家宽 04丨5x US\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-家宽 02丨5x US\r"
 - name: mixed198
   type: mixed
   port: 42198
-  proxy: "\U0001F1E8\U0001F1E6 加拿大-家宽 01丨2x CA\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-家宽 03丨5x US\r"
 - name: mixed199
   type: mixed
   port: 42199
-  proxy: "\U0001F1E8\U0001F1E6 加拿大-家宽 02丨2x CA\r"
+  proxy: "\U0001F1FA\U0001F1F8 美国-家宽 04丨5x US\r"
 - name: mixed200
   type: mixed
   port: 42200
-  proxy: "\U0001F1E8\U0001F1E6 加拿大-家宽 03丨1x CA\r"
+  proxy: "\U0001F1E8\U0001F1E6 加拿大-家宽 01丨2x CA\r"
 - name: mixed201
   type: mixed
   port: 42201
-  proxy: "\U0001F1F5\U0001F1F2 圣皮埃尔和密克隆丨3x PM\r"
+  proxy: "\U0001F1E8\U0001F1E6 加拿大-家宽 02丨2x CA\r"
 - name: mixed202
   type: mixed
   port: 42202
-  proxy: "\U0001F1F2\U0001F1FD 墨西哥丨3x MX\r"
+  proxy: "\U0001F1E8\U0001F1E6 加拿大-家宽 03丨1x CA\r"
 - name: mixed203
   type: mixed
   port: 42203
-  proxy: "\U0001F1F2\U0001F1FD 墨西哥家宽丨5x MX\r"
+  proxy: "\U0001F1F5\U0001F1F2 圣皮埃尔和密克隆丨3x PM\r"
 - name: mixed204
   type: mixed
   port: 42204
-  proxy: "\U0001F1F2\U0001F1FD 墨西哥星链丨20x MX\r"
+  proxy: "\U0001F1F2\U0001F1FD 墨西哥丨3x MX\r"
 - name: mixed205
   type: mixed
   port: 42205
-  proxy: "\U0001F1F5\U0001F1E6 巴拿马丨3x PA\r"
+  proxy: "\U0001F1F2\U0001F1FD 墨西哥星链丨20x MX\r"
 - name: mixed206
   type: mixed
   port: 42206
-  proxy: "\U0001F1E7\U0001F1F2 百慕大丨3x BM\r"
+  proxy: "\U0001F1F5\U0001F1E6 巴拿马丨3x PA\r"
 - name: mixed207
   type: mixed
   port: 42207
-  proxy: "\U0001F1EC\U0001F1F1 格陵兰丨3x GL\r"
+  proxy: "\U0001F1E7\U0001F1F2 百慕大丨3x BM\r"
 - name: mixed208
   type: mixed
   port: 42208
-  proxy: "\U0001F1EC\U0001F1E9 格林纳达丨3x GD\r"
+  proxy: "\U0001F1EC\U0001F1F1 格陵兰丨3x GL\r"
 - name: mixed209
   type: mixed
   port: 42209
-  proxy: "\U0001F1E8\U0001F1F7 哥斯达黎加丨1x CR\r"
+  proxy: "\U0001F1EC\U0001F1E9 格林纳达丨3x GD\r"
 - name: mixed210
   type: mixed
   port: 42210
-  proxy: "\U0001F1FB\U0001F1EC 英属维尔京丨3x VG\r"
+  proxy: "\U0001F1E8\U0001F1F7 哥斯达黎加丨1x CR\r"
 - name: mixed211
   type: mixed
   port: 42211
-  proxy: "\U0001F1FB\U0001F1EE 美属维尔京丨3x VI\r"
+  proxy: "\U0001F1FB\U0001F1EC 英属维尔京丨3x VG\r"
 - name: mixed212
   type: mixed
   port: 42212
-  proxy: "\U0001F1E7\U0001F1F7 巴西丨1x BR\r"
+  proxy: "\U0001F1FB\U0001F1EE 美属维尔京丨3x VI\r"
 - name: mixed213
   type: mixed
   port: 42213
-  proxy: "\U0001F1E8\U0001F1F1 智利丨2x CL\r"
+  proxy: "\U0001F1E7\U0001F1F7 巴西丨1x BR\r"
 - name: mixed214
   type: mixed
   port: 42214
-  proxy: "\U0001F1F5\U0001F1EA 秘鲁丨5x PE\r"
+  proxy: "\U0001F1E8\U0001F1F1 智利丨2x CL\r"
 - name: mixed215
   type: mixed
   port: 42215
-  proxy: "\U0001F1E8\U0001F1FA 古巴丨3x CU\r"
+  proxy: "\U0001F1F5\U0001F1EA 秘鲁丨5x PE\r"
 - name: mixed216
   type: mixed
   port: 42216
-  proxy: "\U0001F1ED\U0001F1F9 海地丨3x HT\r"
+  proxy: "\U0001F1E8\U0001F1FA 古巴丨3x CU\r"
 - name: mixed217
   type: mixed
   port: 42217
-  proxy: "\U0001F1E6\U0001F1F7 阿根廷 01丨2x AR\r"
+  proxy: "\U0001F1ED\U0001F1F9 海地丨3x HT\r"
 - name: mixed218
   type: mixed
   port: 42218
-  proxy: "\U0001F1E6\U0001F1F7 阿根廷 02丨2x AR\r"
+  proxy: "\U0001F1E6\U0001F1F7 阿根廷 01丨2x AR\r"
 - name: mixed219
   type: mixed
   port: 42219
-  proxy: "\U0001F1FA\U0001F1FE 乌拉圭丨3x UY\r"
+  proxy: "\U0001F1E6\U0001F1F7 阿根廷 02丨2x AR\r"
 - name: mixed220
   type: mixed
   port: 42220
-  proxy: "\U0001F1F5\U0001F1FE 巴拉圭丨3x PY\r"
+  proxy: "\U0001F1FA\U0001F1FE 乌拉圭丨3x UY\r"
 - name: mixed221
   type: mixed
   port: 42221
-  proxy: "\U0001F1EF\U0001F1F2 牙买加丨3x JM\r"
+  proxy: "\U0001F1F5\U0001F1FE 巴拉圭丨3x PY\r"
 - name: mixed222
   type: mixed
   port: 42222
@@ -4512,262 +4490,254 @@ listeners:
 - name: mixed250
   type: mixed
   port: 42250
-  proxy: "\U0001F1E9\U0001F1F2 多米尼克丨3x DM\r"
+  proxy: "\U0001F1E9\U0001F1F4 多米尼加丨5x DO\r"
 - name: mixed251
   type: mixed
   port: 42251
-  proxy: "\U0001F1E9\U0001F1F4 多米尼加丨5x DO\r"
+  proxy: "\U0001F1F1\U0001F1E8 圣卢西亚丨3x LC\r"
 - name: mixed252
   type: mixed
   port: 42252
-  proxy: "\U0001F1E7\U0001F1E7 巴巴多斯丨3x BB\r"
+  proxy: "\U0001F1EB\U0001F1F0 福克兰群岛丨3x FK\r"
 - name: mixed253
   type: mixed
   port: 42253
-  proxy: "\U0001F1F1\U0001F1E8 圣卢西亚丨3x LC\r"
+  proxy: "\U0001F1F9\U0001F1E8 特克斯和凯科斯群岛丨3x TC\r"
 - name: mixed254
   type: mixed
   port: 42254
-  proxy: "\U0001F1EB\U0001F1F0 福克兰群岛丨3x FK\r"
+  proxy: "\U0001F1EA\U0001F1EC 埃及丨3x EG\r"
 - name: mixed255
   type: mixed
   port: 42255
-  proxy: "\U0001F1F9\U0001F1E8 特克斯和凯科斯群岛丨3x TC\r"
+  proxy: "\U0001F1EC\U0001F1ED 加纳丨3x GH\r"
 - name: mixed256
   type: mixed
   port: 42256
-  proxy: "\U0001F1EA\U0001F1EC 埃及丨3x EG\r"
+  proxy: "\U0001F1F9\U0001F1EC 多哥丨3x TG\r"
 - name: mixed257
   type: mixed
   port: 42257
-  proxy: "\U0001F1EC\U0001F1ED 加纳丨3x GH\r"
+  proxy: "\U0001F1FF\U0001F1E6 南非 01丨1x ZA\r"
 - name: mixed258
   type: mixed
   port: 42258
-  proxy: "\U0001F1F9\U0001F1EC 多哥丨3x TG\r"
+  proxy: "\U0001F1FF\U0001F1E6 南非 02丨1x ZA\r"
 - name: mixed259
   type: mixed
   port: 42259
-  proxy: "\U0001F1FF\U0001F1E6 南非 01丨1x ZA\r"
+  proxy: "\U0001F1E7\U0001F1EF 贝宁丨3x BJ\r"
 - name: mixed260
   type: mixed
   port: 42260
-  proxy: "\U0001F1FF\U0001F1E6 南非 02丨1x ZA\r"
+  proxy: "\U0001F1F8\U0001F1E9 苏丹丨3x SD\r"
 - name: mixed261
   type: mixed
   port: 42261
-  proxy: "\U0001F1E7\U0001F1EF 贝宁丨3x BJ\r"
+  proxy: "\U0001F1F2\U0001F1F1 马里丨3x ML\r"
 - name: mixed262
   type: mixed
   port: 42262
-  proxy: "\U0001F1F8\U0001F1E9 苏丹丨3x SD\r"
+  proxy: "\U0001F1E8\U0001F1EC 刚果（布）丨3x CG\r"
 - name: mixed263
   type: mixed
   port: 42263
-  proxy: "\U0001F1F2\U0001F1F1 马里丨3x ML\r"
+  proxy: "\U0001F1E8\U0001F1E9 刚果（金）丨3x CD\r"
 - name: mixed264
   type: mixed
   port: 42264
-  proxy: "\U0001F1E8\U0001F1EC 刚果（布）丨3x CG\r"
+  proxy: "\U0001F1EC\U0001F1E6 加蓬丨3x GA\r"
 - name: mixed265
   type: mixed
   port: 42265
-  proxy: "\U0001F1E8\U0001F1E9 刚果（金）丨3x CD\r"
+  proxy: "\U0001F1F9\U0001F1E9 乍得丨3x TD\r"
 - name: mixed266
   type: mixed
   port: 42266
-  proxy: "\U0001F1EC\U0001F1E6 加蓬丨3x GA\r"
+  proxy: "\U0001F1F2\U0001F1E6 摩洛哥丨3x MA\r"
 - name: mixed267
   type: mixed
   port: 42267
-  proxy: "\U0001F1F9\U0001F1E9 乍得丨3x TD\r"
+  proxy: "\U0001F1F9\U0001F1F3 突尼斯丨2x TN\r"
 - name: mixed268
   type: mixed
   port: 42268
-  proxy: "\U0001F1F2\U0001F1E6 摩洛哥丨3x MA\r"
+  proxy: "\U0001F1F1\U0001F1FE 利比亚丨3x LY\r"
 - name: mixed269
   type: mixed
   port: 42269
-  proxy: "\U0001F1F9\U0001F1F3 突尼斯丨2x TN\r"
+  proxy: "\U0001F1F0\U0001F1EA 肯尼亚丨1x KE\r"
 - name: mixed270
   type: mixed
   port: 42270
-  proxy: "\U0001F1F1\U0001F1FE 利比亚丨3x LY\r"
+  proxy: "\U0001F1F7\U0001F1FC 卢旺达丨2x RW\r"
 - name: mixed271
   type: mixed
   port: 42271
-  proxy: "\U0001F1F0\U0001F1EA 肯尼亚丨1x KE\r"
+  proxy: "\U0001F1E8\U0001F1FB 佛得角丨3x CV\r"
 - name: mixed272
   type: mixed
   port: 42272
-  proxy: "\U0001F1F7\U0001F1FC 卢旺达丨2x RW\r"
+  proxy: "\U0001F1E6\U0001F1F4 安哥拉丨3x AO\r"
 - name: mixed273
   type: mixed
   port: 42273
-  proxy: "\U0001F1E8\U0001F1FB 佛得角丨3x CV\r"
+  proxy: "\U0001F1E8\U0001F1F2 喀麦隆丨3x CM\r"
 - name: mixed274
   type: mixed
   port: 42274
-  proxy: "\U0001F1E6\U0001F1F4 安哥拉丨3x AO\r"
+  proxy: "\U0001F1E7\U0001F1EE 布隆迪丨3x BI\r"
 - name: mixed275
   type: mixed
   port: 42275
-  proxy: "\U0001F1E8\U0001F1F2 喀麦隆丨3x CM\r"
+  proxy: "\U0001F1F8\U0001F1F4 索马里丨3x SO\r"
 - name: mixed276
   type: mixed
   port: 42276
-  proxy: "\U0001F1E7\U0001F1EE 布隆迪丨3x BI\r"
+  proxy: "\U0001F1E9\U0001F1EF 吉布提丨3x DJ\r"
 - name: mixed277
   type: mixed
   port: 42277
-  proxy: "\U0001F1F8\U0001F1F4 索马里丨3x SO\r"
+  proxy: "\U0001F1EC\U0001F1F2 冈比亚丨3x GM\r"
 - name: mixed278
   type: mixed
   port: 42278
-  proxy: "\U0001F1E9\U0001F1EF 吉布提丨3x DJ\r"
+  proxy: "\U0001F1EC\U0001F1F3 几内亚丨3x GN\r"
 - name: mixed279
   type: mixed
   port: 42279
-  proxy: "\U0001F1EC\U0001F1F2 冈比亚丨3x GM\r"
+  proxy: "\U0001F1F1\U0001F1F8 莱索托丨3x LS\r"
 - name: mixed280
   type: mixed
   port: 42280
-  proxy: "\U0001F1EC\U0001F1F3 几内亚丨3x GN\r"
+  proxy: "\U0001F1F2\U0001F1FC 马拉维丨3x MW\r"
 - name: mixed281
   type: mixed
   port: 42281
-  proxy: "\U0001F1F1\U0001F1F8 莱索托丨3x LS\r"
+  proxy: "\U0001F1F3\U0001F1EA 尼日尔丨3x NE\r"
 - name: mixed282
   type: mixed
   port: 42282
-  proxy: "\U0001F1F2\U0001F1FC 马拉维丨3x MW\r"
+  proxy: "\U0001F1FA\U0001F1EC 乌干达丨3x UG\r"
 - name: mixed283
   type: mixed
   port: 42283
-  proxy: "\U0001F1F3\U0001F1EA 尼日尔丨3x NE\r"
+  proxy: "\U0001F1FE\U0001F1F9 马约特丨3x YT\r"
 - name: mixed284
   type: mixed
   port: 42284
-  proxy: "\U0001F1FA\U0001F1EC 乌干达丨3x UG\r"
+  proxy: "\U0001F1FF\U0001F1F2 赞比亚丨3x ZM\r"
 - name: mixed285
   type: mixed
   port: 42285
-  proxy: "\U0001F1FE\U0001F1F9 马约特丨3x YT\r"
+  proxy: "\U0001F1F8\U0001F1F8 南苏丹丨3x SS\r"
 - name: mixed286
   type: mixed
   port: 42286
-  proxy: "\U0001F1FF\U0001F1F2 赞比亚丨3x ZM\r"
+  proxy: "\U0001F1F8\U0001F1E8 塞舌尔丨3x SC\r"
 - name: mixed287
   type: mixed
   port: 42287
-  proxy: "\U0001F1F8\U0001F1F8 南苏丹丨3x SS\r"
+  proxy: "\U0001F1F0\U0001F1F2 科摩罗丨3x KM\r"
 - name: mixed288
   type: mixed
   port: 42288
-  proxy: "\U0001F1F8\U0001F1E8 塞舌尔丨3x SC\r"
+  proxy: "\U0001F1F3\U0001F1EC 尼日利亚丨2x NG\r"
 - name: mixed289
   type: mixed
   port: 42289
-  proxy: "\U0001F1F0\U0001F1F2 科摩罗丨3x KM\r"
+  proxy: "\U0001F1F3\U0001F1EC 尼日利亚住宅丨5x NG\r"
 - name: mixed290
   type: mixed
   port: 42290
-  proxy: "\U0001F1F3\U0001F1EC 尼日利亚丨2x NG\r"
+  proxy: "\U0001F1F2\U0001F1FF 莫桑比克丨3x MZ\r"
 - name: mixed291
   type: mixed
   port: 42291
-  proxy: "\U0001F1F3\U0001F1EC 尼日利亚住宅丨5x NG\r"
+  proxy: "\U0001F1F2\U0001F1FA 毛里求斯丨2x MU\r"
 - name: mixed292
   type: mixed
   port: 42292
-  proxy: "\U0001F1F2\U0001F1FF 莫桑比克丨3x MZ\r"
+  proxy: "\U0001F1E8\U0001F1EE 科特迪瓦丨3x CI\r"
 - name: mixed293
   type: mixed
   port: 42293
-  proxy: "\U0001F1F2\U0001F1FA 毛里求斯丨2x MU\r"
+  proxy: "\U0001F1F9\U0001F1FF 坦桑尼亚丨5x TZ\r"
 - name: mixed294
   type: mixed
   port: 42294
-  proxy: "\U0001F1E8\U0001F1EE 科特迪瓦丨3x CI\r"
+  proxy: "\U0001F1FF\U0001F1FC 津巴布韦丨3x ZW\r"
 - name: mixed295
   type: mixed
   port: 42295
-  proxy: "\U0001F1F9\U0001F1FF 坦桑尼亚丨5x TZ\r"
+  proxy: "\U0001F1F8\U0001F1F3 塞内加尔丨3x SN\r"
 - name: mixed296
   type: mixed
   port: 42296
-  proxy: "\U0001F1FF\U0001F1FC 津巴布韦丨3x ZW\r"
+  proxy: "\U0001F1E7\U0001F1FC 博茨瓦纳丨3x BW\r"
 - name: mixed297
   type: mixed
   port: 42297
-  proxy: "\U0001F1F8\U0001F1F3 塞内加尔丨3x SN\r"
+  proxy: "\U0001F1F3\U0001F1E6 纳米比亚丨3x NA\r"
 - name: mixed298
   type: mixed
   port: 42298
-  proxy: "\U0001F1E7\U0001F1FC 博茨瓦纳丨3x BW\r"
+  proxy: "\U0001F1F8\U0001F1F1 塞拉利昂丨3x SL\r"
 - name: mixed299
   type: mixed
   port: 42299
-  proxy: "\U0001F1F3\U0001F1E6 纳米比亚丨3x NA\r"
+  proxy: "\U0001F1F8\U0001F1FF 斯威士兰丨3x SZ\r"
 - name: mixed300
   type: mixed
   port: 42300
-  proxy: "\U0001F1F8\U0001F1F1 塞拉利昂丨3x SL\r"
+  proxy: "\U0001F1F1\U0001F1F7 利比里亚丨3x LR\r"
 - name: mixed301
   type: mixed
   port: 42301
-  proxy: "\U0001F1F8\U0001F1FF 斯威士兰丨3x SZ\r"
+  proxy: "\U0001F1E9\U0001F1FF 阿尔及利亚丨3x DZ\r"
 - name: mixed302
   type: mixed
   port: 42302
-  proxy: "\U0001F1F1\U0001F1F7 利比里亚丨3x LR\r"
+  proxy: "\U0001F1F2\U0001F1EC 马达加斯加丨3x MG\r"
 - name: mixed303
   type: mixed
   port: 42303
-  proxy: "\U0001F1E9\U0001F1FF 阿尔及利亚丨3x DZ\r"
+  proxy: "\U0001F1EC\U0001F1F6 赤道几内亚丨3x GQ\r"
 - name: mixed304
   type: mixed
   port: 42304
-  proxy: "\U0001F1F2\U0001F1EC 马达加斯加丨3x MG\r"
+  proxy: "\U0001F1E7\U0001F1EB 布基纳法索丨3x BF\r"
 - name: mixed305
   type: mixed
   port: 42305
-  proxy: "\U0001F1EC\U0001F1F6 赤道几内亚丨3x GQ\r"
+  proxy: "\U0001F1EA\U0001F1F7 厄立特里亚丨3x ER\r"
 - name: mixed306
   type: mixed
   port: 42306
-  proxy: "\U0001F1E7\U0001F1EB 布基纳法索丨3x BF\r"
+  proxy: "\U0001F1EA\U0001F1F9 埃塞俄比亚丨3x ET\r"
 - name: mixed307
   type: mixed
   port: 42307
-  proxy: "\U0001F1EA\U0001F1F7 厄立特里亚丨3x ER\r"
+  proxy: "\U0001F1F2\U0001F1F7 毛里塔尼亚丨3x MR\r"
 - name: mixed308
   type: mixed
   port: 42308
-  proxy: "\U0001F1EA\U0001F1F9 埃塞俄比亚丨3x ET\r"
+  proxy: "\U0001F1E8\U0001F1EB 中非共和国丨3x CF\r"
 - name: mixed309
   type: mixed
   port: 42309
-  proxy: "\U0001F1F2\U0001F1F7 毛里塔尼亚丨3x MR\r"
+  proxy: "\U0001F1EC\U0001F1FC 几内亚比绍丨3x GW\r"
 - name: mixed310
   type: mixed
   port: 42310
-  proxy: "\U0001F1E8\U0001F1EB 中非共和国丨3x CF\r"
+  proxy: "\U0001F1F8\U0001F1F9 圣多美和普林西比丨3x ST\r"
 - name: mixed311
   type: mixed
   port: 42311
-  proxy: "\U0001F1EC\U0001F1FC 几内亚比绍丨3x GW\r"
+  proxy: "\U0001F1E6\U0001F1F6 南极洲丨3x AQ\r"
 - name: mixed312
   type: mixed
   port: 42312
-  proxy: "\U0001F1F8\U0001F1F9 圣多美和普林西比丨3x ST\r"
-- name: mixed313
-  type: mixed
-  port: 42313
-  proxy: "\U0001F1E6\U0001F1F6 南极洲丨3x AQ\r"
-- name: mixed314
-  type: mixed
-  port: 42314
   proxy: 🇨🇳 中国大陆丨3x CN
 proxy-groups:
 - name: 🚀 节点选择
@@ -4885,6 +4855,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1FF 乌兹别克斯坦丨1x UZ\r"
   - "\U0001F1F9\U0001F1F4 汤加丨3x TO\r"
   - "\U0001F1E6\U0001F1FA 澳大利亚-悉尼丨2x AU\r"
+  - "\U0001F1E6\U0001F1FA 澳大利亚-珀斯丨2x AU\r"
   - "\U0001F1E6\U0001F1FA 澳大利亚-墨尔本丨2x AU\r"
   - "\U0001F1F3\U0001F1E8 新喀里多尼亚丨3x NC\r"
   - "\U0001F1F3\U0001F1FF 新西兰丨2x NZ\r"
@@ -4896,6 +4867,7 @@ proxy-groups:
   - "\U0001F1E6\U0001F1F8 美属萨摩亚丨3x AS\r"
   - "\U0001F1F9\U0001F1F0 托克劳丨3x TK\r"
   - "\U0001F1F0\U0001F1EE 基里巴斯丨3x KI\r"
+  - "\U0001F1FB\U0001F1FA 瓦努阿图丨3x VU\r"
   - "\U0001F1F3\U0001F1EB 诺福克岛丨3x NF\r"
   - "\U0001F1F8\U0001F1E7 所罗门群岛丨3x SB\r"
   - "\U0001F1F2\U0001F1ED 马绍尔群岛丨3x MH\r"
@@ -4991,7 +4963,6 @@ proxy-groups:
   - "\U0001F1E8\U0001F1E6 加拿大-家宽 03丨1x CA\r"
   - "\U0001F1F5\U0001F1F2 圣皮埃尔和密克隆丨3x PM\r"
   - "\U0001F1F2\U0001F1FD 墨西哥丨3x MX\r"
-  - "\U0001F1F2\U0001F1FD 墨西哥家宽丨5x MX\r"
   - "\U0001F1F2\U0001F1FD 墨西哥星链丨20x MX\r"
   - "\U0001F1F5\U0001F1E6 巴拿马丨3x PA\r"
   - "\U0001F1E7\U0001F1F2 百慕大丨3x BM\r"
@@ -5009,7 +4980,6 @@ proxy-groups:
   - "\U0001F1E6\U0001F1F7 阿根廷 02丨2x AR\r"
   - "\U0001F1FA\U0001F1FE 乌拉圭丨3x UY\r"
   - "\U0001F1F5\U0001F1FE 巴拉圭丨3x PY\r"
-  - "\U0001F1EF\U0001F1F2 牙买加丨3x JM\r"
   - "\U0001F1F8\U0001F1F7 苏里南丨3x SR\r"
   - "\U0001F1E7\U0001F1F8 巴哈马丨3x BS\r"
   - "\U0001F1EC\U0001F1FE 圭亚那丨3x GY\r"
@@ -5038,9 +5008,7 @@ proxy-groups:
   - "\U0001F1F0\U0001F1FE 开曼群岛丨3x KY\r"
   - "\U0001F1ED\U0001F1F3 洪都拉斯丨3x HN\r"
   - "\U0001F1F3\U0001F1EE 尼加拉瓜丨3x NI\r"
-  - "\U0001F1E9\U0001F1F2 多米尼克丨3x DM\r"
   - "\U0001F1E9\U0001F1F4 多米尼加丨5x DO\r"
-  - "\U0001F1E7\U0001F1E7 巴巴多斯丨3x BB\r"
   - "\U0001F1F1\U0001F1E8 圣卢西亚丨3x LC\r"
   - "\U0001F1EB\U0001F1F0 福克兰群岛丨3x FK\r"
   - "\U0001F1F9\U0001F1E8 特克斯和凯科斯群岛丨3x TC\r"
