@@ -430,7 +430,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本 01丨1x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 12011
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -441,7 +441,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本 02丨1x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 12010
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -452,7 +452,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本 03丨1x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 12012
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -463,7 +463,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本 04丨3x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13235
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -474,7 +474,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本 05丨3x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13269
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -485,7 +485,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本家宽 01丨3x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13101
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -496,7 +496,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本家宽 02丨3x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13221
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -507,7 +507,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本家宽 03丨3x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13240
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -518,7 +518,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本家宽 04丨3x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13241
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -529,7 +529,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本家宽 05丨3x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13242
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -540,7 +540,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本家宽 06丨3x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13272
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -551,7 +551,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本家宽 07丨3x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13273
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -562,7 +562,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本游戏丨2x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13024
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -573,7 +573,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本-5G网络丨10x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13282
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -584,7 +584,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EF\U0001F1F5 日本-星链丨10x JP\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13278
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -595,7 +595,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F0\U0001F1F7 韩国家宽 01丨5x KR\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 50017
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -606,7 +606,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F0\U0001F1F7 韩国家宽 02丨5x KR\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 50016
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -617,7 +617,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F0\U0001F1F7 韩国家宽 03丨5x KR\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 50015
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -1992,7 +1992,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-费城丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13110
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2003,7 +2003,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-纽约 01丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13006
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2014,7 +2014,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-纽约 02丨3x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13284
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2025,7 +2025,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-洛杉矶 01丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13007
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2036,7 +2036,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-洛杉矶 02丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13010
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2047,7 +2047,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-洛杉矶 03丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 12706
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2058,7 +2058,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-洛杉矶 04丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13277
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2069,7 +2069,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-盐湖城丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13271
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2080,7 +2080,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-迈阿密丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13109
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2091,7 +2091,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-西雅图丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13111
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2102,7 +2102,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-檀香山丨3x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13108
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2113,7 +2113,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-旧金山丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13113
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2124,7 +2124,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-凤凰城丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13287
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2135,7 +2135,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-达拉斯丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13267
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2146,7 +2146,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-芝加哥丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13253
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2157,7 +2157,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-夏洛特丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13257
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2168,7 +2168,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-斯波坎丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13266
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2179,7 +2179,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-阿什本丨3x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13285
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2190,7 +2190,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-巴尔的摩丨3x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13288
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2201,7 +2201,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-拉斯维加斯丨1x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13268
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2212,7 +2212,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-家宽 01丨5x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13114
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2223,7 +2223,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-家宽 02丨5x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13227
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2234,7 +2234,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-家宽 03丨5x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13228
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2245,7 +2245,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1F8 美国-家宽 04丨5x US\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13213
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2256,7 +2256,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E8\U0001F1E6 加拿大-家宽 01丨2x CA\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13117
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2267,7 +2267,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E8\U0001F1E6 加拿大-家宽 02丨2x CA\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13291
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2278,7 +2278,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E8\U0001F1E6 加拿大-家宽 03丨1x CA\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13270
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2300,7 +2300,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F2\U0001F1FD 墨西哥丨3x MX\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13004
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2311,7 +2311,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F2\U0001F1FD 墨西哥星链丨20x MX\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13289
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2322,7 +2322,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F5\U0001F1E6 巴拿马丨3x PA\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 12704
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2366,7 +2366,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E8\U0001F1F7 哥斯达黎加丨1x CR\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 12719
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2399,7 +2399,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E7\U0001F1F7 巴西丨1x BR\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13103
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2410,7 +2410,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E8\U0001F1F1 智利丨2x CL\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13104
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2421,7 +2421,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F5\U0001F1EA 秘鲁丨5x PE\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13016
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2454,7 +2454,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E6\U0001F1F7 阿根廷 01丨2x AR\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13015
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2465,7 +2465,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E6\U0001F1F7 阿根廷 02丨2x AR\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13211
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2476,7 +2476,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1FA\U0001F1FE 乌拉圭丨3x UY\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 12715
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2487,7 +2487,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F5\U0001F1FE 巴拉圭丨3x PY\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13245
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2520,7 +2520,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E7\U0001F1F8 巴哈马丨3x BS\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13254
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2542,7 +2542,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EC\U0001F1EB 法属圭亚那丨3x GF\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13251
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2586,7 +2586,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E8\U0001F1FC 荷属库拉索丨3x CW\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13115
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2641,7 +2641,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F2\U0001F1F6 法属马提尼克丨3x MQ\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13279
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2674,7 +2674,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F9\U0001F1F9 特立尼达和多巴哥丨3x TT\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13252
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2696,7 +2696,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E8\U0001F1F4 哥伦比亚丨3x CO\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13246
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2707,7 +2707,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EA\U0001F1E8 厄瓜多尔丨3x EC\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13106
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2740,7 +2740,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1EC\U0001F1F9 危地马拉丨1x GT\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13218
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2751,7 +2751,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F8\U0001F1FB 萨尔瓦多丨1x SV\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13281
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2773,7 +2773,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1F5\U0001F1F7 波多黎各住宅丨5x PR\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13219
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2795,7 +2795,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1ED\U0001F1F3 洪都拉斯丨3x HN\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13237
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
@@ -2828,7 +2828,7 @@ proxies:
     host: 2195a4c365c3.microsoft.com
 - name: "\U0001F1E9\U0001F1F4 多米尼加丨5x DO\r"
   type: ss
-  server: tq5cpgw3.epicgames.ink
+  server: rnfi81py.epicgames.ink
   port: 13290
   cipher: aes-128-gcm
   password: haMLMXirByn6rGVh
